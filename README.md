@@ -18,7 +18,7 @@
 ![main](https://github.com/ApprenticeWeb/shoes-store-frontend/blob/main/picture_for_github/main.png)
 #### Бренд
 Также можно ознакомиться с товаром только определённого бренда.
-![main](https://github.com/ApprenticeWeb/shoes-store-frontend/blob/main/picture_for_github/main.png)
+![main](https://github.com/ApprenticeWeb/shoes-store-frontend/blob/main/picture_for_github/category.png)
 #### Товар(продукт)
 Выбрав понравившийся товар появляется возможность ознакомится с его описанием, стоимостью и если понравился то добавить в корзину.
 ![main](https://github.com/ApprenticeWeb/shoes-store-frontend/blob/main/picture_for_github/choice.png)
