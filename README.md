@@ -7,7 +7,7 @@
 
 В создании использовался стек технологий: `MERN(MongoDB, Express, React, Node.js)`, `TypeScript`, `Redux(Thunk)`, `BEM`
 
-Для коректной работы нужен рабочий сервер. ![server](https://github.com/ApprenticeWeb/shoes-store-server) 
+Для коректной работы нужен рабочий сервер. [server](https://github.com/ApprenticeWeb/shoes-store-server) 
 
 Установка пакетов
 ### `npm i`
